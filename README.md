@@ -25,7 +25,7 @@ The “Mobile Analysis 2023” project provides a comprehensive overview of vari
 • Power BI <br>
 
 ## Findings 🕵️‍♂️
-Check the [.sql](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/Mobile%20Analysis%20SQL.sql) file for detailed answers to the following questions:
+Check the [Mobile Analysys SQL.sql](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/Mobile%20Analysis%20SQL.sql) file for detailed answers to the following questions:
 
 1.	Can you provide a list of mobile features and their prices?
 2.	What are the 5 most expensive phones available?
