@@ -16,7 +16,7 @@ The “Mobile Analysis 2023” project provides a comprehensive overview of vari
 •	Utilized data visualization tools like PowerBI to represent data effectively, aiding stakeholders in making informed decisions. <br>
 
 ## Entity Relationship Diagram 🗂️ :
-![Dashboard](        
+![ERDiagram](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/ER%20Diagram.png) 
 
 <br>
 
@@ -25,7 +25,7 @@ The “Mobile Analysis 2023” project provides a comprehensive overview of vari
 • Power BI <br>
 
 ## Findings 🕵️‍♂️
-Check the .sql file for detailed answers to the following questions:
+Check the [.sql](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/Mobile%20Analysis%20SQL.sql) file for detailed answers to the following questions:
 
 1.	Can you provide a list of mobile features and their prices?
 2.	What are the 5 most expensive phones available?
@@ -39,6 +39,8 @@ Check the .sql file for detailed answers to the following questions:
 10.	What is the total price of all mobile phones, sorted by brand name? <br>
 
 ## Creating Dashboards with Power BI 📊
+
+![Dashboard](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/Dashboard.png)
 
 <br>
 
