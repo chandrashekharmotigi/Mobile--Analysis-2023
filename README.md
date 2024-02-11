@@ -5,15 +5,15 @@ The “Mobile Analysis 2023” project provides a comprehensive overview of vari
 
 ## Project Description 📊 :
 
-•	Conducted a comprehensive analysis of the mobile phone market using SQL and PowerBI.
-•	Analyzed various aspects including features, prices, brands, operating systems, battery capacity, 5G availability, and internal storage.
-•	Utilized SQL queries to filter out specific data sets for in-depth analysis.
-•	Identified the 5 most expensive and cheapest phones in the market.
-•	Conducted a brand-specific analysis for Samsung, listing the top 5 phones detailing their prices and features.
-•	Curated a list of must-have Android and iOS phones based on user reviews and technical specifications.
-•	Identified top 5 high-priced and lower-priced Android and iOS phones for varied customer segments.
-•	Wrote SQL queries to identify phones supporting 5G technology and listed the top 5 phones with 5G support based on performance reviews.
-•	Utilized data visualization tools like PowerBI to represent data effectively, aiding stakeholders in making informed decisions. <br>
+-	Conducted a comprehensive analysis of the mobile phone market using SQL and PowerBI.
+-	Analyzed various aspects including features, prices, brands, operating systems, battery capacity, 5G availability, and internal storage.
+-	Utilized SQL queries to filter out specific data sets for in-depth analysis.
+-	Identified the 5 most expensive and cheapest phones in the market.
+-	Conducted a brand-specific analysis for Samsung, listing the top 5 phones detailing their prices and features.
+-	Curated a list of must-have Android and iOS phones based on user reviews and technical specifications.
+-	Identified top 5 high-priced and lower-priced Android and iOS phones for varied customer segments.
+-	Wrote SQL queries to identify phones supporting 5G technology and listed the top 5 phones with 5G support based on performance reviews.
+-	Utilized data visualization tools like PowerBI to represent data effectively, aiding stakeholders in making informed decisions. <br>
 
 ## Entity Relationship Diagram 🗂️ :
 ![ERDiagram](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/ER%20Diagram.png) 
@@ -21,8 +21,8 @@ The “Mobile Analysis 2023” project provides a comprehensive overview of vari
 <br>
 
 ## Database and Tools 🛠️
-• MySQL
-• Power BI <br>
+- MySQL
+- Power BI <br>
 
 ## Findings 🕵️‍♂️
 Check the [Mobile Analysys SQL.sql](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/Mobile%20Analysis%20SQL.sql) file for detailed answers to the following questions:
