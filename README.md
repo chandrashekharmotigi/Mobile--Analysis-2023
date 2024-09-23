@@ -40,7 +40,7 @@ Check the [Mobile Analysys SQL.sql](https://github.com/chandrashekharmotigi/Mobi
 
 ## Creating Dashboards with Power BI 📊
 
-![Dashboard](https://github.com/chandrashekharmotigi/Mobile-Analysis-2023/blob/main/Dashboard.png)
+![Dashboard]()
 
 <br>
 
